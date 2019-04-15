@@ -24,3 +24,6 @@ div {
     text-align: center;
     color: rgb(77, 4, 77);
   }
+  figure {
+      text-align: center;
+  }
