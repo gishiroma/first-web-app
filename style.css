@@ -8,3 +8,19 @@ div {
     text-align: center;
     color: orange;
   }
+  h2 {
+    text-align: center;
+    color: orange;
+  }
+  h3 {
+    text-align: left;
+    color: rgb(77, 4, 77);
+  }
+  p {
+    text-align: left;
+    color: orange;
+  }
+  nav {
+    text-align: center;
+    color: rgb(77, 4, 77);
+  }
